@@ -43,5 +43,5 @@ If you are lucky enough to mint a Legendary Trick, you can expect to receive a f
 Rares will receive discounted rates on PFP mints, please see discord for details.
 <br><hr>
 
-<img src="https://github.com/TwistedTech-wtf/NightmareOnFantomSt/blob/master/images/FTM-Pixel.png" width="25">Only on Fantom Opera Network
+<img src="https://github.com/TwistedTech-wtf/NightmareOnFantomSt/blob/main/images/FTM-Pixel.png" width="25">Only on Fantom Opera Network
 
