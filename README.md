@@ -1,4 +1,4 @@
-# <img src="" width="25"> Nightmare On Fantom St.
+# <img src="https://github.com/TwistedTech-wtf/NightmareOnFantomSt/blob/master/images/NOFS-Logo.gif" width="30"> Nightmare On Fantom St. <img src="https://github.com/TwistedTech-wtf/NightmareOnFantomSt/blob/master/images/NOFS-Logo.gif" width="30">
 
 ## Contract
 ```0x44dEa70BE365F616F1b47346005045374e827b83```
@@ -43,5 +43,5 @@ If you are lucky enough to mint a Legendary Trick, you can expect to receive a f
 Rares will receive discounted rates on PFP mints, please see discord for details.
 <br><hr>
 
-<img src="" width="25">Only on Fantom Opera Network
+<img src="https://github.com/TwistedTech-wtf/NightmareOnFantomSt/blob/master/images/FTM-Pixel.png" width="25">Only on Fantom Opera Network
 
