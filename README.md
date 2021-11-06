@@ -1,4 +1,4 @@
-# <img src="https://github.com/TwistedTech-wtf/NightmareOnFantomSt/blob/master/images/NOFS-Logo.gif" width="30"> Nightmare On Fantom St. <img src="https://github.com/TwistedTech-wtf/NightmareOnFantomSt/blob/master/images/NOFS-Logo.gif" width="30">
+# <img src="https://github.com/TwistedTech-wtf/NightmareOnFantomSt/blob/main/images/NOFS-Logo.gif" width="30"> Nightmare On Fantom St. <img src="https://github.com/TwistedTech-wtf/NightmareOnFantomSt/blob/main/images/NOFS-Logo.gif" width="30">
 
 ## Contract
 ```0x44dEa70BE365F616F1b47346005045374e827b83```
