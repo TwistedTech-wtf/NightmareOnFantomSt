@@ -1,5 +1,8 @@
 # <img src="https://github.com/TwistedTech-wtf/NightmareOnFantomSt/blob/main/images/NOFS-Logo.gif" width="30"> Nightmare On Fantom St. <img src="https://github.com/TwistedTech-wtf/NightmareOnFantomSt/blob/main/images/NOFS-Logo.gif" width="30">
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=TwistedTech-wtf.NightmareOnFantomSt)
+![Twitter Follow](https://img.shields.io/twitter/follow/twistedtechnfts?style=social)
+
 ## Contract
 ```0x44dEa70BE365F616F1b47346005045374e827b83```
 
